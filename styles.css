@@ -27,7 +27,7 @@ body {
 .container {
    background-color: #1f1f1f;
    width: 31rem;
-   height: 50rem;
+   height: 45rem;
    border-radius: 1.5rem;
    display: flex;
    flex-direction: column;
